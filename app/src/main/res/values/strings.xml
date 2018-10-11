@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeFirebase</string>
+    <string name="facebook_app_id">366963180796560</string>
+    <string name="fb_login_protocol_scheme">fb366963180796560</string>
+</resources>
